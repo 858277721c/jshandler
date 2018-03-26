@@ -14,6 +14,9 @@ public class JsHandler extends BaseJsHandler
         super(activity);
     }
 
+    /**
+     * 退出登录
+     */
     @JavascriptInterface
     public void logout()
     {
@@ -29,6 +32,11 @@ public class JsHandler extends BaseJsHandler
         getActivity().finish();
     }
 
+    /**
+     * 打开某个页面
+     *
+     * @param json
+     */
     @JavascriptInterface
     public void start_app_page(String json)
     {
