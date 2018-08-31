@@ -1,4 +1,4 @@
-package com.fanwe.lib.jshandler;
+package com.sd.lib.jshandler;
 
 import android.app.Activity;
 

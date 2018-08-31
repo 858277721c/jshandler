@@ -1,4 +1,4 @@
-package com.fanwe.lib.jshandler.model;
+package com.sd.lib.jshandler.model;
 
 import org.json.JSONObject;
 

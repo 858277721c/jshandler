@@ -1,4 +1,4 @@
-package com.fanwe.jshandler;
+package com.sd.jshandler;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

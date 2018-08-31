@@ -1,11 +1,11 @@
-package com.fanwe.lib.jshandler;
+package com.sd.lib.jshandler;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.webkit.CookieManager;
 import android.webkit.JavascriptInterface;
 
-import com.fanwe.lib.jshandler.model.StartAppPageJsonModel;
+import com.sd.lib.jshandler.model.StartAppPageJsonModel;
 
 public class JsHandler extends BaseJsHandler
 {
